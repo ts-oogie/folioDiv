@@ -15,6 +15,7 @@
     "nodemon": "^2.0.20",
     "path": "^0.12.7"
   },
+  "start": "node server.js",
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve"
